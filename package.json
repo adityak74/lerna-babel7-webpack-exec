@@ -1,0 +1,17 @@
+{
+  "author": {
+    "email": "akarnam37@gmail.com",
+    "name": "Aditya Karnam"
+  },
+  "bin": { "lerna-b7-exec": "main.js" },
+  "dependencies": {
+    "commander": "2.19.0"
+  },
+  "main": "main.js",
+  "name": "lerna-babel7-exec",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adityak74/lerna-babel7-webpack-exec.git"
+  },
+  "version": "1.0.0"
+}
