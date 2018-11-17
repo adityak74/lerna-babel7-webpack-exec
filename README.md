@@ -2,7 +2,7 @@
 
 This package helps you to run monorepo specific build commands typically when monorepos import across other repos across the packages. 
 
-Include this as a devDepency is recommended.
+Include this as a devDependency is recommended.
 
 ## Usage
 
