@@ -12,13 +12,13 @@ The script takes three arguments.
 
 ### Options
 
--- `--segments` Number of levels need to be traversed upwards from existing directory to get to the root of the monorepo.
+- `--segments` Number of levels need to be traversed upwards from existing directory to get to the root of the monorepo.
 
--- `--filename` Webpack config filename
+- `--filename` Webpack config filename
 
--- `--commandArguments` Any webpack specifc args
+- `--commandArguments` Any webpack specifc args
 
--- `--buildOpts` Any downstream config variables set from the root of the monorepo while running `lerna run build`.
+- `--buildOpts` Any downstream config variables set from the root of the monorepo while running `lerna run build`.
 
 Example: `lerna run build --stream '--buildOpts=--env development'`
 
